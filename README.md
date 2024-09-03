@@ -1,6 +1,2 @@
-# ThreadPool
-# Audio_Visual-Speech-Enhancement
-# Audio_Visual-Speech-Enhancement
-# Audio_Visual-Speech-Enhancement
-# Audio_Visual-Speech-Enhancement
 # Audio-only-Speech-Enhancement
+# 在参数量仅0.37M下，在多种信噪比下，PESQ提升了40%，STOI提升了35%。在校内食堂嘈杂人声、校车行驶噪声、楼道脚步声、厕所排气扇噪声等具体应用场景下的噪声均能很好抑制噪声，还原出人声。
